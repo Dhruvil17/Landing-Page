@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../Header/Header";
 import LeftBar from "../LeftBar/LeftBar";
 import Main from "../Main/Main";
+import RightBar from "../RightBar/RightBar";
 import "./App.css";
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
 			<div className="workspace">
 				<LeftBar />
 				<Main />
+				<RightBar />
 			</div>
 		</div>
 	);

@@ -7,7 +7,7 @@ const Post = ({ heading, post }) => {
 			<i class="fa-solid fa-person"></i>
 			<h4>{heading}</h4>
 			<p>{post}</p>
-			<div>
+			<div className="icons">
 				<i class="fa-solid fa-thumbs-up"> 9</i>
 				<i class="fa-solid fa-comment"> 6</i>
 			</div>
