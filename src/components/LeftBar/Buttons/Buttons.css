@@ -1,0 +1,23 @@
+.Home {
+	margin: 1em auto;
+	text-align: center;
+}
+
+.button-1 {
+	padding-right: 6em;
+}
+
+.Groups {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.button-2 {
+	padding-right: 2.2em;
+}
+
+.fa-solid {
+	float: left;
+	margin-top: 0.3em;
+	padding-right: 1em;
+}

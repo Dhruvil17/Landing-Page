@@ -1,0 +1,30 @@
+.link {
+	margin: 0 0.1em 0 0.3em;
+}
+
+.paragraph {
+	float: left;
+	width: 60%;
+	padding: 1px;
+	text-align: left;
+}
+
+.image {
+	float: right;
+	margin-top: -3em;
+}
+
+.footer {
+	display: inline-block;
+}
+
+.Link {
+	padding: 0 1em;
+	text-decoration: none;
+	color: green;
+}
+
+.Link:hover {
+	text-decoration: underline;
+	color: darkgreen;
+}

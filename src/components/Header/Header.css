@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap");
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.Header-Image {
+	margin-left: 3.5em;
+	margin-top: 0.5em;
+}
+
+.Header-details {
+	font-family: "Supermercado One", cursive;
+	margin-left: 2em;
+	margin-bottom: 0;
+}
+
+.line {
+	background-color: lightgray;
+	border: none;
+	width: 120em;
+	margin-top: 0;
+	border-bottom: 5px solid;
+}

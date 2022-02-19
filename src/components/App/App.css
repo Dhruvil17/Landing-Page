@@ -1,0 +1,8 @@
+body {
+	overflow: hidden;
+}
+
+.workspace {
+	display: flex;
+	flex-direction: row;
+}
