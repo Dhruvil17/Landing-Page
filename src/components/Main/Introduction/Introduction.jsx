@@ -1,10 +1,11 @@
 import React from "react";
 import Welcome from "./Welcome/Welcome";
 import Text from "./Text/Text";
+import "./Introduction.css";
 
 const Introduction = () => {
 	return (
-		<div>
+		<div className="main">
 			<Welcome />
 			<Text />
 		</div>

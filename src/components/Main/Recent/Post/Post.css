@@ -1,0 +1,20 @@
+.fa-person {
+	margin-top: 0.2em;
+	font-size: 35px;
+}
+
+.icons {
+	margin-left: 3.6em;
+}
+
+.post {
+	width: 70%;
+	padding-left: 2em;
+	padding-right: 1em;
+	padding-top: 10px;
+	background-color: azure;
+}
+
+.break hr {
+	width: 0;
+}

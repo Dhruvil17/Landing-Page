@@ -3,7 +3,7 @@ import "./Names.css";
 
 const Groups = () => {
 	return (
-		<div>
+		<div className="box">
 			<p className="name">Groups</p>
 			<div>
 				<i class="fa-solid fa-caret-down"></i>

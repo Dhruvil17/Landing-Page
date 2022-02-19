@@ -5,7 +5,7 @@ const Groups = ({ groupName }) => {
 	return (
 		<div className="groups">
 			<i class="fa-solid fa-circle"></i>
-			<p>{groupName}</p>
+			<p className="groupName">{groupName}</p>
 		</div>
 	);
 };
