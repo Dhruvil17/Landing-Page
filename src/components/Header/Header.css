@@ -20,7 +20,6 @@ body {
 .line {
 	background-color: lightgray;
 	border: none;
-	width: 120em;
 	margin-top: 0;
 	border-bottom: 5px solid;
 }

@@ -5,7 +5,7 @@ const Name = () => {
 	return (
 		<div className="recents">
 			<i class="fa-solid fa-bell"></i>
-			<p>Recents</p>
+			<p className="text">Recents</p>
 			<div className="icon">
 				<i class="fa-solid fa-caret-down"></i>
 			</div>

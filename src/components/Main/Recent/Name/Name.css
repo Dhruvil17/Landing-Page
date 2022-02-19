@@ -1,5 +1,9 @@
 .icon {
 	float: right;
-	margin-right: 54.5em;
 	margin-top: -2.3em;
+	margin-right: 34.5em;
+}
+
+.text {
+	margin-right: -20em;
 }
