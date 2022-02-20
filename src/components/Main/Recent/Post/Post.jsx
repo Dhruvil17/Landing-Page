@@ -12,7 +12,7 @@ const Post = ({ heading, post }) => {
 					<span>9</span>
 				</i>
 				<i className="fa-solid fa-comment">
-					<span>9</span>
+					<span>6</span>
 				</i>
 			</div>
 			<br />
