@@ -1,0 +1,15 @@
+.persons {
+	text-align: left;
+	padding-bottom: 0.8em;
+}
+
+.persons .fa-person {
+	font-size: 1.4em;
+	padding: 0 1em;
+	margin-right: 0.5em;
+}
+
+.persons .paragraph {
+	font-size: 18px;
+	margin-left: -1em;
+}

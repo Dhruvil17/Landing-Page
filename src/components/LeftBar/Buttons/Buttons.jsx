@@ -10,7 +10,7 @@ const Buttons = () => {
 				<ButtonGroup aria-label="Buttons">
 					<div>
 						<Button className="button-1" variant="success">
-							<i class="fa-solid fa-house"></i>Home
+							<i className="fa-solid fa-house"></i>Home
 						</Button>
 					</div>
 				</ButtonGroup>
@@ -19,7 +19,7 @@ const Buttons = () => {
 				<ButtonGroup aria-label="Buttons">
 					<div>
 						<Button className="button-2" variant="light">
-							<i class="fa-solid fa-compass"></i>Explore Groups
+							<i className="fa-solid fa-compass"></i>Explore Groups
 						</Button>
 					</div>
 				</ButtonGroup>

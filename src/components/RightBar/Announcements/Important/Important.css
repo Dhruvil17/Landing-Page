@@ -1,0 +1,13 @@
+.pin-text {
+	font-size: 12px;
+	text-align: left;
+}
+
+.fa-thumbtack {
+	margin-left: 0.5em;
+	margin-right: -0.5em;
+}
+
+.important-text {
+	margin: 1em auto;
+}

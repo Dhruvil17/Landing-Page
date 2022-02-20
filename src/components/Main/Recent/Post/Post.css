@@ -4,7 +4,14 @@
 }
 
 .icons {
-	margin-left: 3.6em;
+	margin-left: 3.9em;
+	font-size: 15px;
+}
+
+.icons span {
+	font-size: 13px;
+	margin-left: 0.5em;
+	margin-right: 0.3em;
 }
 
 .post {

@@ -6,7 +6,7 @@ const Groups = () => {
 		<div className="box">
 			<p className="name">Groups</p>
 			<div>
-				<i class="fa-solid fa-caret-down"></i>
+				<i className="fa-solid fa-caret-down"></i>
 				<h6 className="career-groups">CareerNaksha Groups</h6>
 			</div>
 		</div>
